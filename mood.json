@@ -1,0 +1,41 @@
+
+{
+    "mood": [
+        {
+            "tag": "happy",
+            "patterns": ["happy", "i dey happy", "kampe", "my heart dey sweet me", "mo yo", "body dey sweet me", "inu mi dun", "obi uto", "na ji dadi"],
+            "responses": ["KPK by Mohbad", "Benin Boys by Rema", "Jaiye by Wizkid"]
+        },
+        {
+            "tag": "sad",
+            "patterns": ["sad", "i dey down", "i wan cry", "my heart dey pain me", "i no happy", "i dey feel somehow"],
+            "responses": ["Away by Oxlade", "Ojoro by Terri", "Need You by Fireboy DML"]
+        },
+        {
+            "tag": "confused",
+            "patterns": ["confused", "i no understand", "my head scatter", "i dey think", "i no sabi"],
+            "responses": ["Philo by Bella Shmurda", "Overloading by Mavins", "Peace Be Unto You by Asake"]
+        },
+        {
+            "tag": "love",
+            "patterns": ["love", "i dey love", "i don fall in love", "i wan play love", "i like person"],
+            "responses": ["Forever by Gyakie", "Surrender by simi", "Running by Chike"]
+        },
+        {
+            "tag": "tired",
+            "patterns": ["tired", "i don tire", "i wan rest", "i dey weak", "e choke", "i no fit again"],
+            "responses": ["Ginger by Wizkid ft. Burna Boy", "Energy by Black Sherif", "Vibration by Fireboy"]
+        },
+        {
+            "tag": "grateful",
+            "patterns": ["grateful", "i dey appreciate", "i wan thank God", "God too good", "i dey shine"],
+            "responses": ["Blessings by Niphkeys ft. Zinoleesky", "So Blessed by Kizz Daniel", "Way Too Big by Burna Boy"]
+        },
+        {
+            "tag": "heartbroken",
+            "patterns": ["heartbroken", "person toy with", " person use me as maga", "them serve me break fast"],
+            "responses": ["fallen out of love with you chike"]
+
+        }
+    ]
+}

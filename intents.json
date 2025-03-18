@@ -1,0 +1,17 @@
+{"intents": [
+ {"tag": "greetings",
+"patterns":["hello", "hey", "hi", "good day", "greetings", "what's up?" , "how is it going?", "howfa"],
+"responses": ["Hello!", "Hey", "Howfa?", "How you dey", "How body", "Wetin dey", "Wassup" ]} ,
+{"tag": "goodbye",
+"patterns":["cya", "see yu later", "bye", "cao", "see ya", "have a good day", "end" ],
+"responses":["I go see you", "Take care", "Later", "I dey go",  "I go dey alright", "I gats run", "Make i off"]
+},
+{"tag": "name",
+"patterns":["what is yor name", "what can i call you", "what's your name", "who are you?"],
+"responses":["AfroBot"]
+},
+{"tag": "work",
+"patterns":["what do you do?", "what is your job?",  "why were you created?", "work", "job", "reason"],
+"responses":["My work na make i help una find Afrobeat wey do match una mood"]
+}
+]}
