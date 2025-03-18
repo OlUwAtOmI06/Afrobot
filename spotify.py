@@ -1,8 +1,8 @@
 import requests
 
 # Spotify API Credentials
-CLIENT_ID = "4c1a0eef9e9242fab34d1365134f6e7e"
-CLIENT_SECRET = "48183dce66d546e98fa14843643f7edc"
+CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
+CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
 
 # Get Spotify Token
 def get_spotify_token():
