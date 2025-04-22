@@ -12,7 +12,7 @@ Open-Source: Community contributions are encouraged to improve and expand the pr
 
 
 Programming Language: Python
-Libraries & Tools: NLTK, spaCy, Flask (for deployment), Spotify API, Google Cloud Natural Language API
+Libraries & Tools: NLTK, Spotify API, logistic Regression 
 Deployment: still deciding 
 
 
@@ -46,7 +46,6 @@ Step 4: Install Dependencies
 Install the necessary Python libraries:
 
 pip install -r requirements.txt
-If you don't have a requirements.txt file, manually install the dependencies:
 
 pip install nltk spacy flask spotipy google-cloud
 Step 5: Set Up Spotify API
@@ -72,13 +71,15 @@ Project Structure
 Afrobot/
 │
 ├── app.py                # Main file to run the chatbot
-├── simple_bot.py         # Core logic for the chatbot interaction
+├── simple_bot.py         # Inital pattern matching chatbot interaction
 ├── intents.json          # Training data for the chatbot
 ├── mood.json             # Mood-based recommendations
 ├── spotify.py            # Spotify integration
 ├── training.py           # Model training logic
 ├── requirements.txt      # Required Python packages
 └── README.md             # Project documentation
+|── model.py              # Chatbot interaction with logistic regression 
+
 Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository, make changes, and submit a pull request. You can help by:
