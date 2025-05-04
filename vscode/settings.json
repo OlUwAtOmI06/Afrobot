@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "path_to_your_venv/bin/python",
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.languageServer": "Pylance",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "editor.formatOnSave": true
+}

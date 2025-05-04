@@ -1,0 +1,89 @@
+{
+    "mood": [
+        {
+            "tag": "happy",
+            "patterns": ["happy", "i dey happy", "kampe", "my heart dey sweet me", "mo yo", "body dey sweet me", "inu mi dun", "obi uto", "na ji dadi"],
+            "responses": ["KPK by Mohbad", "Benin Boys by Rema", "Jaiye by Wizkid"]
+        },
+        {
+            "tag": "sad",
+            "patterns": ["sad", "i dey down", "i wan cry", "my heart dey pain me", "i no happy", "i dey feel somehow"],
+            "responses": ["Away by Oxlade", "Ojoro by Terri", "Need You by Fireboy DML"]
+        },
+        {
+            "tag": "confused",
+            "patterns": ["confused", "i no understand", "my head scatter", "i dey think", "i no sabi"],
+            "responses": ["Philo by Bella Shmurda", "Overloading by Mavins", "Peace Be Unto You by Asake", "gaga shuffle by 2baba", "stronger by young john"]
+        },
+        {
+            "tag": "love",
+            "patterns": ["love", "i dey love", "i don fall in love", "i wan play love", "i like person", "crushing", "romance", "crush"],
+            "responses": ["Forever by Gyakie", "Surrender by simi", "Running by Chike", "diana by ruger", "sweet love by wizkid"]
+        },
+        {
+            "tag": "tired",
+            "patterns": ["tired", "i don tire", "i wan rest", "i dey weak", "e choke", "i no fit again", "work don tire me", "school don tire me" ],
+            "responses": ["Ginger by Wizkid ft. Burna Boy", "Energy by Black Sherif", "Vibration by Fireboy", "sungba by asake and buurna boy", "calm down by rema"]
+        },
+        {
+            "tag": "grateful",
+            "patterns": ["grateful", "i dey appreciate", "i wan thank God", "God too good", "i dey shine", "blessings"],
+            "responses": ["Blessings by Niphkeys ft. Zinoleesky", "So Blessed by Kizz Daniel", "Way Too Big by Burna Boy", "oluwa by orezi", "baba god by timaya"]
+        },
+        {
+            "tag": "heartbroken",
+            "patterns": ["heartbroken", "person toy with", " person use me as maga", "them serve me break fast", "cheat on me", "maga don pay"],
+            "responses": ["fallen out of love with you chike", "ojoro by terri", "no love by shoday", "reason by omay lay", "miss you by oxlade"]
+
+        },
+        {
+            "tag": "relaxed",
+            "patterns": ["relaxed", "at peace", "settled", "soft life", "no wahala"],
+            "responses": ["gbona by burna boy", "essence by wizkid", "peru by fireboy", "jay jay by ruger", "kukure by iyanya"]
+
+        },
+        {
+            "tag": "energetic",
+            "patterns": ["energetic", "i dey gym", " i am so happy", " i have alot of energy"],
+            "responses": ["anybody by burna boy", "bad energy by wizkid", "jealous by fireboy", "bobo by olamide"]
+
+        },
+        {
+            "tag": "old school",
+            "patterns": ["i just dey remember the times i small", "old skool", " old school", "i miss 2000", "og naija music"],
+            "responses": ["forever by psquare", "pakurumo by wizkid", "adamma by flavor", "african queen by 2 face", "olufummi by styl-plus"]
+
+        },
+
+        {
+            "tag": "woman",
+            "patterns": ["woman", "celebrating females", " uplift woman", "queen energy", "girl power"],
+            "responses": ["woman commando by ayar  star", "woman by simi", "woman to woman by simi", "omo baba by tiwa savage", "girls by darey and simi"]
+
+        },
+        {
+            "tag": "confident",
+            "patterns": ["confident", "i no dey look uche face", "i get mind", "nobody fit shame me", "boost my confidence", "i be boss"],
+            "responses": ["ye by burna boy", "wo by olamide", "holiday by rema", "shakiti bobo by olamide", "am not a prisoner by portable"]
+
+        },
+        {
+            "tag": "melllow",
+            "patterns": ["mellow"],
+            "responses": ["count on you by johnny drille", "fierce by laycon", "addicted by niniola", "outside by buju"]
+
+        },
+        {
+            "tag": "playful",
+            "patterns": ["playful", "play full my body"],
+            "responses": ["ale yi by zlantan", "cashapp by bella shmurda", "bolanle by zlantan", "yeye boyfriend by zlantan", "owo ni"]
+
+        },
+        {
+            "tag": "chill",
+            "patterns": ["chill", "cool", "no stress", "relax", "life no hard"],
+            "responses": ["leg over by mr eazi", "joromi by simi", "shaba by niniola", "toma toma by ruger", "mood by buju"]
+
+        }
+    ]
+}
