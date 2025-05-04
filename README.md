@@ -21,10 +21,13 @@ Follow these steps to run the Afrobeat chatbot locally:
 Clone the Repository
 Clone the repository to your local machine using the following command:
 git clone https://github.com/OlUwAtOmI06/Afrobot.git
+
 Navigate to the Project Directory
 Change into the project directory:
 cd Afrobot
+
 Set Up a Virtual Environment (Optional but Recommended)
+
 Create and activate a virtual environment to keep dependencies isolated:
 On Windows:
 
@@ -34,25 +37,31 @@ On macOS/Linux:
 
 python -m venv venv
 source venv/bin/activate
+
 Install Dependencies
 Install the necessary Python libraries:
 pip install -r requirements.txt
+
 pip install nltk spacy flask spotipy google-cloud
+
 Set Up Spotify API
 You will need to set up a Spotify Developer account and get your API keys.
 Go to Spotify Developer Dashboard to create an app and get your CLIENT_ID and CLIENT_SECRET.
+
 Once you have the keys, set them as environment variables:
+
 On Windows:
 set SPOTIPY_CLIENT_ID="your-client-id"
 set SPOTIPY_CLIENT_SECRET="your-client-secret"
-On macOS/Linux:
 
+On macOS/Linux:
 export SPOTIPY_CLIENT_ID="your-client-id"
 export SPOTIPY_CLIENT_SECRET="your-client-secret"
+
 Run the Chatbot
 Now you're ready to run the chatbot:
 python app.py
-Interact with the Chatbot
+
 Once the application starts, you can interact with the chatbot through the terminal. Type your preferences, and the chatbot will recommend Afrobeat music!
 
 
