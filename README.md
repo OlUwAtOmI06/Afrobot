@@ -13,6 +13,7 @@ Open-Source: Community contributions are encouraged to improve and expand the pr
 
 Programming Language: Python
 Libraries & Tools: NLTK, Spotify API, logistic Regression 
+
 Deployment: still deciding 
 
 
