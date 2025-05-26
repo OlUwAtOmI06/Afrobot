@@ -1,0 +1,231 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hi"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey",
+                "Howfa?",
+                "How you dey",
+                "How body",
+                "Wetin dey",
+                "Wassup",
+                "I dey",
+                "I am good",
+                "I am wonderful",
+                "I am alright"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "goodbye"
+            ],
+            "responses": [
+                "I go see you",
+                "Take care",
+                "Later",
+                "I dey go",
+                "I go dey alright",
+                "I gats run",
+                "Make i off",
+                "oya nna ejeh",
+                "chat you later",
+                "talk to you later",
+                "Take care"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "How i go take call you"
+            ],
+            "responses": [
+                "AfroBot"
+            ]
+        },
+        {
+            "tag": "work",
+            "patterns": [
+                "wetin be youur reason"
+            ],
+            "responses": [
+                "My work na make i help una find Afrobeat wey do match una mood"
+            ]
+        },
+        {
+            "tag": "exam_start",
+            "patterns": [
+                "exam don kick off"
+            ],
+            "responses": [
+                "You go give me good exam news",
+                "Make sure you read am wella so you fit to pass",
+                "You go make am!",
+                "I hope say you pass"
+            ]
+        },
+        {
+            "tag": "exam_positive",
+            "patterns": [
+                "I aced the exam"
+            ],
+            "responses": [
+                "Congratulations on the exam enjoy",
+                "That is a wonderful news",
+                "I am so happy for you"
+            ]
+        },
+        {
+            "tag": "exam_ended",
+            "patterns": [
+                "I don complete final paper"
+            ],
+            "responses": [
+                "Enjoy ya self, how he take go",
+                "You wan talk about the exam"
+            ]
+        },
+        {
+            "tag": "motivation",
+            "patterns": [
+                "I am going to make efforts"
+            ],
+            "responses": [
+                "Na the spirit!",
+                "Go for am!",
+                "Hustle no go waste",
+                "Make e happen!",
+                "No give up!",
+                "Push harder!",
+                "The grind is real!",
+                "Keep going!",
+                "Success dey near!",
+                "You go make am!"
+            ]
+        },
+        {
+            "tag": "love_and_relationship",
+            "patterns": [
+                "how to show love to my partner"
+            ],
+            "responses": [
+                "No dull yourself, tell am how you feel!",
+                "Use confidence, no fear!",
+                "Buy small gift, e go help!",
+                "Apologize sharp-sharp! when you are wrong",
+                "Just be yourself! and Express how you feel!",
+                "Give space when needed",
+                "Respect go make am better!",
+                "Just go straight to the point",
+                "Be honest with your feelings"
+            ]
+        },
+        {
+            "tag": "food_recommendation",
+            "patterns": [
+                "food ideas please"
+            ],
+            "responses": [
+                "Try Jollof rice!",
+                "Egusi soup dey make sense!",
+                "Boli and groundnut go sweet!",
+                "Fried rice and chicken",
+                "Pounded yam with vegetable soup",
+                "Suya with yam porridge",
+                "Go for Shawarma!",
+                "Jollof rice with plantain",
+                "Beans and dodo is life",
+                "Moi moi with pap"
+            ]
+        },
+        {
+            "tag": "asking_for_help",
+            "patterns": [
+                "Please, can you help me with this?"
+            ],
+            "responses": [
+                "I got you!",
+                "No wahala, how I go take help?",
+                "Sure thing, wetin you need?",
+                "I dey for you!",
+                "Just yarn me wetin sup!",
+                "Oya na, make we do am together.",
+                "I no go leave you hang!",
+                "Wetin you wan make I do?",
+                "E go be!",
+                "I dey your back like backpack!"
+            ]
+        },
+        {
+            "tag": "complaint",
+            "patterns": [
+                "I don't know but he or she has been acting up of late"
+            ],
+            "responses": [
+                "Na wah oh, that person no try.",
+                "Wahala no dey finish for this life.",
+                "People dey always show themselves.",
+                "Abeg ignore am jare.",
+                "Some people just get wahala spirit.",
+                "Calm down, no let am spoil your mood.",
+                "Shebi you go give am space small?",
+                "Talk am make we reason am together.",
+                "I sabi that kain person.",
+                "No stress yourself, life too short."
+            ]
+        },
+        {
+            "tag": "Weather",
+            "patterns": [
+                "How today sky go be like?"
+            ],
+            "responses": [
+                "I do not have weather informmation but check (https://weather.com)",
+                "I will advise you check your phone weather app or (https://weather.com)"
+            ]
+        },
+        {
+            "tag": "Study_tips",
+            "patterns": [
+                "How do i prepare for an exam? "
+            ],
+            "responses": [
+                "Try the Pomodoro Technique ",
+                "I will advise you do active recall.",
+                "You fit use flash cards",
+                "Try teaching the concept in a mirror to a seven year old?"
+            ]
+        },
+        {
+            "tag": "news_update",
+            "patterns": [
+                "Give me lastest gist "
+            ],
+            "responses": [
+                "i do not have access to real time news",
+                "Me no know",
+                "Every where dry for my side",
+                "Nothing dey sup for my area",
+                "I no fit access news. no vex"
+            ]
+        },
+        {
+            "tag": "Mental_health",
+            "patterns": [
+                "stress wan take me away."
+            ],
+            "responses": [
+                "You are loved. do not stress, i am listening",
+                "Everything will be alright. calm down am listening",
+                "last last everywhere go rice and stew, you dey try, you fit run am by me",
+                "Nothing dey shake. i dey for you, you wan share am",
+                "It is okay. You are loved, am listening",
+                "You are not alone. talk to someone if not talk to me i will listen"
+            ]
+        }
+    ]
+}

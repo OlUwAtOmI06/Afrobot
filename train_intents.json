@@ -1,0 +1,434 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "how area",
+                "greetings",
+                "How far?",
+                "hello",
+                "how body",
+                "hey",
+                "howfa",
+                "good day",
+                "how is it going?",
+                "what's up?",
+                "how are you"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey",
+                "Howfa?",
+                "How you dey",
+                "How body",
+                "Wetin dey",
+                "Wassup",
+                "I dey",
+                "I am good",
+                "I am wonderful",
+                "I am alright"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "bye",
+                "have a good day",
+                "later",
+                "see ya",
+                "see you later",
+                "end",
+                "cya",
+                "i will talk to you later",
+                "cao"
+            ],
+            "responses": [
+                "I go see you",
+                "Take care",
+                "Later",
+                "I dey go",
+                "I go dey alright",
+                "I gats run",
+                "Make i off",
+                "oya nna ejeh",
+                "chat you later",
+                "talk to you later",
+                "Take care"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "I fit no your name",
+                "What do you go by?",
+                "who are you?",
+                "can i know your name",
+                "what can i call you",
+                "what are you called",
+                "wetin be your name",
+                "Make i sabi your name",
+                "what's your name",
+                "Wetin be your name",
+                "what is your name"
+            ],
+            "responses": [
+                "AfroBot"
+            ]
+        },
+        {
+            "tag": "work",
+            "patterns": [
+                "what do you do?",
+                "wetin you sabi do",
+                "wetin be your fuction",
+                "wetin be your purpose",
+                "what is your reason",
+                "why were you created?",
+                "wetin you fit do",
+                "what exactly is your function",
+                "job",
+                "work",
+                "What is your purpose",
+                "what is your job?"
+            ],
+            "responses": [
+                "My work na make i help una find Afrobeat wey do match una mood"
+            ]
+        },
+        {
+            "tag": "exam_start",
+            "patterns": [
+                "exam has begun",
+                "exam is in progress",
+                "I get exam",
+                "Exam na soon",
+                "exam is now",
+                "exam don land",
+                "exam as commenced",
+                "exam table don drop",
+                "Exam don show face"
+            ],
+            "responses": [
+                "You go give me good exam news",
+                "Make sure you read am wella so you fit to pass",
+                "You go make am!",
+                "I hope say you pass"
+            ]
+        },
+        {
+            "tag": "exam_positive",
+            "patterns": [
+                "I passed the exam",
+                "The exam was successful",
+                "I cleared the exam",
+                "i came out succesful in the exam",
+                "I win the exam",
+                "The exam had a positive result",
+                "I did well in the exam",
+                "i passed with good grades",
+                "I passed with flying colors"
+            ],
+            "responses": [
+                "Congratulations on the exam enjoy",
+                "That is a wonderful news",
+                "I am so happy for you"
+            ]
+        },
+        {
+            "tag": "exam_ended",
+            "patterns": [
+                "the exam is over",
+                "the exam is done and dusted",
+                "I just write last paper",
+                "the exam don end",
+                "The exam has ended",
+                "Exam has ended?",
+                "exam don finish",
+                "I just finished my exam",
+                "the exam don close",
+                "The exam session is complete"
+            ],
+            "responses": [
+                "Enjoy ya self, how he take go",
+                "You wan talk about the exam"
+            ]
+        },
+        {
+            "tag": "motivation",
+            "patterns": [
+                "no time to waste",
+                "I want to take my life seriously",
+                "I wan make am big",
+                "I go get am",
+                "hustle go pay",
+                "I dey grind",
+                "I go shine",
+                "I will put in the time",
+                "this year I go hustle",
+                "I go run am",
+                "I am going to invest a lot of energy",
+                "I no go slack this year",
+                "I go chop success"
+            ],
+            "responses": [
+                "Na the spirit!",
+                "Go for am!",
+                "Hustle no go waste",
+                "Make e happen!",
+                "No give up!",
+                "Push harder!",
+                "The grind is real!",
+                "Keep going!",
+                "Success dey near!",
+                "You go make am!"
+            ]
+        },
+        {
+            "tag": "checking_in",
+            "patterns": [
+                "what's up?",
+                "make una dey check up on me",
+                "long time no talk",
+                "check in on me",
+                "I miss una",
+                "I dey alright",
+                "how have you been?",
+                "how you dey?",
+                "long time, no see"
+            ],
+            "responses": [
+                "i dey here!",
+                "i miss you too!",
+                "Hope say you dey alright?",
+                "Na who go check on you?",
+                "I dey alright!",
+                "How you dey?",
+                "Check up no go kill you!",
+                "You dey okay?",
+                "Make I come see you?",
+                "Na so we go keep in touch!"
+            ]
+        },
+        {
+            "tag": "love_and_relationship",
+            "patterns": [
+                "I am in love.",
+                "I get someone I like",
+                "I go talk to her",
+                "I get butterflies",
+                "I really like this",
+                "how to make person like me?",
+                "I dey crush on person",
+                "my babe dey vex for me",
+                "how I go toast this babe?",
+                "she dey play hard to get",
+                "I don fall in love",
+                "my relationship dey hot",
+                "I have feelings"
+            ],
+            "responses": [
+                "No dull yourself, tell am how you feel!",
+                "Use confidence, no fear!",
+                "Buy small gift, e go help!",
+                "Apologize sharp-sharp! when you are wrong",
+                "Just be yourself! and Express how you feel!",
+                "Give space when needed",
+                "Respect go make am better!",
+                "Just go straight to the point",
+                "Be honest with your feelings"
+            ]
+        },
+        {
+            "tag": "food_recommendation",
+            "patterns": [
+                "I need food ideas",
+                "I can die of hunger",
+                "I dey hungry",
+                "what to eat today?",
+                "wetin I go cook?",
+                "wetin make I chop?",
+                "what's for dinner?",
+                "what should I eat?",
+                "Hunger wan kpa me",
+                "best food for today?",
+                "tell me good food to try"
+            ],
+            "responses": [
+                "Try Jollof rice!",
+                "Egusi soup dey make sense!",
+                "Boli and groundnut go sweet!",
+                "Fried rice and chicken",
+                "Pounded yam with vegetable soup",
+                "Suya with yam porridge",
+                "Go for Shawarma!",
+                "Jollof rice with plantain",
+                "Beans and dodo is life",
+                "Moi moi with pap"
+            ]
+        },
+        {
+            "tag": "funny_responses",
+            "patterns": [
+                "make me laugh",
+                "tell me joke",
+                "make me smile",
+                "I need joke",
+                "guy here just dry. go into your element",
+                "tell me something funnny",
+                "crack me up abeg",
+                "I'm bored. got any jokes",
+                "say somethinng funnny"
+            ],
+            "responses": [
+                "Why mosquito no go church? E dey fear spray!",
+                "Why fish no go school? E no wan cast net!",
+                "1 doughnut? Ewo bon she fefun 1 doughnut!",
+                "Sope otilor!",
+                "God abeg, who I offend for this life?",
+                "As how? \ud83d\ude02",
+                "Brainrot memes dey cure bad mood!",
+                "Corruptok memes too funny abeg!",
+                "Before what goes around comes around, I don japa \ud83d\ude2d",
+                "Opuehhh! E don red!"
+            ]
+        },
+        {
+            "tag": "asking_for_help",
+            "patterns": [
+                "Please can you assist me",
+                "Guy abeg help me",
+                "Abeg come out me on",
+                "Please help me",
+                "How far I need help",
+                "I need help",
+                "Can you???",
+                "Could you help me with something?",
+                "Pls u fit help me run am?"
+            ],
+            "responses": [
+                "I got you!",
+                "No wahala, how I go take help?",
+                "Sure thing, wetin you need?",
+                "I dey for you!",
+                "Just yarn me wetin sup!",
+                "Oya na, make we do am together.",
+                "I no go leave you hang!",
+                "Wetin you wan make I do?",
+                "E go be!",
+                "I dey your back like backpack!"
+            ]
+        },
+        {
+            "tag": "complaint",
+            "patterns": [
+                "This guy no wan align",
+                "I don like his movement",
+                "I don't think i like that person very much",
+                "This person has been a retard lately",
+                "See dis person",
+                "Just telling them both sides of the story so they can judge accordingly",
+                "That guy Dey vex me",
+                "See ehn, that babe wahala too much.",
+                "There's this one person that's always pissing me off."
+            ],
+            "responses": [
+                "Na wah oh, that person no try.",
+                "Wahala no dey finish for this life.",
+                "People dey always show themselves.",
+                "Abeg ignore am jare.",
+                "Some people just get wahala spirit.",
+                "Calm down, no let am spoil your mood.",
+                "Shebi you go give am space small?",
+                "Talk am make we reason am together.",
+                "I sabi that kain person.",
+                "No stress yourself, life too short."
+            ]
+        },
+        {
+            "tag": "Weather",
+            "patterns": [
+                "Does it feel hot today?",
+                "wetin happen to dis weather",
+                "Is it going to rain today?",
+                "What\u2019s the forecast for today?",
+                "Is a sunscreen needed",
+                "How's the weather like?",
+                "is the weather nice today",
+                "Will it be sunny later?",
+                "Will there be clear skies ",
+                "What\u2019s the temperature right now?"
+            ],
+            "responses": [
+                "I do not have weather informmation but check (https://weather.com)",
+                "I will advise you check your phone weather app or (https://weather.com)"
+            ]
+        },
+        {
+            "tag": "Study_tips",
+            "patterns": [
+                "How do you study without burning out?",
+                "Any tips for reducing distractions while studying?",
+                "What are the best study techniques for better retention?",
+                "How i go take run productive studying? ",
+                "How do i study better?",
+                "Best ways to learn? ",
+                "Give me study habits tips? ",
+                "What are some good study habits?",
+                "what\u2019s the most underrated study technique you know?",
+                "How i wan take study?"
+            ],
+            "responses": [
+                "Try the Pomodoro Technique ",
+                "I will advise you do active recall.",
+                "You fit use flash cards",
+                "Try teaching the concept in a mirror to a seven year old?"
+            ]
+        },
+        {
+            "tag": "news_update",
+            "patterns": [
+                "You get lastest information? ",
+                "Any latest news?",
+                "What's happening in the world today?",
+                "wentin dey happen for street?",
+                "Gist me now? ",
+                "What is trending? ",
+                "Tell me something happening now? ",
+                "Any street update",
+                "Any news update",
+                "Do you know what is going on in the streets?"
+            ],
+            "responses": [
+                "i do not have access to real time news",
+                "Me no know",
+                "Every where dry for my side",
+                "Nothing dey sup for my area",
+                "I no fit access news. no vex"
+            ]
+        },
+        {
+            "tag": "Mental_health",
+            "patterns": [
+                "what if i fail. i am anxious",
+                "I am getting panick attack. what if it does not work",
+                "it fiit go left or south.",
+                "I am really worked up.",
+                "what if i do not fiind success",
+                "it might now work in my favour.",
+                "I am terrified ",
+                "How do I handle stress?",
+                "My head dey bang.",
+                "i no dey alright. i been dey fear",
+                "I think say i no go succced. i dey fear "
+            ],
+            "responses": [
+                "You are loved. do not stress, i am listening",
+                "Everything will be alright. calm down am listening",
+                "last last everywhere go rice and stew, you dey try, you fit run am by me",
+                "Nothing dey shake. i dey for you, you wan share am",
+                "It is okay. You are loved, am listening",
+                "You are not alone. talk to someone if not talk to me i will listen"
+            ]
+        }
+    ]
+}
