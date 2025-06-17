@@ -1,11 +1,11 @@
 import requests
 
 # Spotify API Credentials
-CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
-CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
+CLIENT_ID = "4c1a0eef9e9242fab34d1365134f6e7e"
+CLIENT_SECRET = "48183dce66d546e98fa14843643f7edc"
 
 # Get Spotify Token
-def get_spotify_token(): 
+def get_spotify_token():
     url = "https://accounts.spotify.com/api/token"
     headers = {"Content-Type": "application/x-www-form-urlencoded"}
     data = {"grant_type": "client_credentials", "client_id": CLIENT_ID, "client_secret": CLIENT_SECRET}
