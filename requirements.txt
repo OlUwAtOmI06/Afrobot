@@ -28,6 +28,8 @@ fonttools==4.58.4
 frozenlist==1.7.0
 fsspec==2025.5.1
 ftfy==6.3.1
+flask
+flask-cors
 future==1.0.0
 fuzzywuzzy==0.18.0
 grpcio==1.73.0
@@ -65,9 +67,9 @@ natsort==8.4.0
 networkx==3.5
 nltk==3.9.1
 numba==0.61.2
-numpy==1.26.4
-torch==2.5.1
-torchaudio==2.5.1
+numpy
+torch>=2.5.1
+torchaudio>=2.6.0
 torchvision==0.20.1
 git+https://github.com/openai/whisper.git
 outetts==0.4.4
@@ -98,9 +100,9 @@ regex==2024.11.6
 requests==2.32.3
 rich==14.0.0
 safetensors==0.5.3
-scikit-learn==1.6.1
+scikit-learn
 scipy==1.11.4
-sentence-transformers==2.2.2
+sentence-transformers
 sentencepiece==0.2.0
 setuptools==80.9.0
 six==1.17.0
@@ -117,7 +119,7 @@ tiktoken==0.9.0
 tokenizers
 tqdm==4.67.1
 traitlets==5.14.3
-transformers==4.36.2
+transformers
 typeguard==4.4.3
 typing_extensions==4.14.0
 unidic-lite==1.0.8
