@@ -114,7 +114,7 @@ tiktoken==0.9.0
 tokenizers
 torch==2.7.1
 torch-stoi==0.2.3
-torchaudio==2.2.2
+torchaudio==2.7.1
 torchvision==0.17.2
 tqdm==4.67.1
 traitlets==5.14.3
