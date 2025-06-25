@@ -68,8 +68,7 @@ numba==0.61.2
 numpy==1.26.4
 torch==2.7.1
 torchaudio==2.7.1
-torch-stoi==0.2.3
-torchvision==0.17.2
+torchvision==0.22.1
 git+https://github.com/openai/whisper.git
 outetts==0.4.4
 packaging==25.0
