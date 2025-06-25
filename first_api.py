@@ -347,6 +347,8 @@ if __name__ == '__main__':
     print("Starting AfroBot API server...")
     print("Models will be loaded on first request to improve startup time.")
     
-    # Use a production server for deployment
-    # gunicorn -w 4 -b 0.0.0.0:5001 first_api:app
-    app.run(host='0.0.0.0', port=5001, debug=False, threaded=True)
+    # Get port from environment variable (Render sets this)
+    port = int(os.environ.get('PORT', 5001))
+    
+    # Use production-ready settings for deployment
+    app.run(host='0.0.0.0', port=port, debug=False, threaded=True)
