@@ -66,6 +66,10 @@ networkx==3.5
 nltk==3.9.1
 numba==0.61.2
 numpy==1.26.4
+torch==2.7.1
+torchaudio==2.7.1
+torch-stoi==0.2.3
+torchvision==0.17.2
 git+https://github.com/openai/whisper.git
 outetts==0.4.4
 packaging==25.0
@@ -96,7 +100,7 @@ requests==2.32.3
 rich==14.0.0
 safetensors==0.5.3
 scikit-learn==1.6.1
-scipy==1.15.2
+scipy==1.11.3 
 sentence-transformers==2.2.2
 sentencepiece==0.2.0
 setuptools==80.9.0
@@ -111,11 +115,7 @@ tensorboard-data-server==0.7.2
 termcolor==3.1.0
 threadpoolctl==3.6.0
 tiktoken==0.9.0
-tokenizers
-torch==2.7.1
-torch-stoi==0.2.3
-torchaudio==2.7.1
-torchvision==0.17.2
+tokenizers  
 tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.36.2
