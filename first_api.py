@@ -74,15 +74,15 @@ def load_models_lazy():
             print("Loading models...")
             
             # Check if required files exist
-            required_files = ['intents.json', 'mood.json']
+            required_files = ['data/intents.json', 'data/mood.json', 'afro_intent_model.py', 'afrobot_model.pth']
             for file in required_files:
                 if not os.path.exists(file):
                     raise FileNotFoundError(f"Required file {file} not found")
             
             # Load data files
-            with open('intents.json', 'r') as f:
+            with open('data/intents.json', 'r') as f:
                 intents = json.load(f)
-            with open('mood.json', 'r') as f:
+            with open('data/mood.json', 'r') as f:
                 mood_data = json.load(f)
             
             # Load models
@@ -348,5 +348,5 @@ if __name__ == '__main__':
     print("Models will be loaded on first request to improve startup time.")
     
     # Use a production server for deployment
-    # Consider using gunicorn: gunicorn -w 4 -b 0.0.0.0:5001 first_api:app
+    # gunicorn -w 4 -b 0.0.0.0:5001 first_api:app
     app.run(host='0.0.0.0', port=5001, debug=False, threaded=True)
