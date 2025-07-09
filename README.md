@@ -17,6 +17,8 @@ Libraries & Tools: NLTK, Spotify API, logistic Regression
 
 Deployment: Render
 
+Demo Video : https://drive.google.com/file/d/1jMpVqYRU5-mMBo1GPsnUd1Eajum9c36q/view?usp=sharing
+
 
 Follow these steps to run the Afrobeat chatbot locally:
 
