@@ -21,7 +21,7 @@ An intelligent Afrobeat music recommendation system built using Natural Language
 
 Check out the demo video: [Afrobot Demo]( https://drive.google.com/file/d/1jMpVqYRU5-mMBo1GPsnUd1Eajum9c36q/view)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ Check out the demo video: [Afrobot Demo]( https://drive.google.com/file/d/1jMpVq
    python app.py
    ```
 
-## 💬 Usage
+## Usage
 
 Once the application starts, you can interact with the chatbot through the terminal. Type your preferences, and the chatbot will recommend Afrobeat music!
 
@@ -95,7 +95,7 @@ Once the application starts, you can interact with the chatbot through the termi
 - "Recommend some Burna Boy songs"
 - "Play something for dancing"
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please:
 
@@ -107,24 +107,24 @@ Contributions are welcome! If you'd like to contribute, please:
 6. Open a Pull Request
 
 ### Ways to contribute:
-- 🐛 Reporting issues
-- 🔧 Fixing bugs
-- 🧠 Enhancing NLP capabilities
-- 🎵 Adding more Afrobeat music recommendations
-- 📚 Improving documentation
+-  Reporting issues
+- � Fixing bugs
+- � Enhancing NLP capabilities
+-   Adding more Afrobeat music recommendations
+-   Improving documentation
 
-## 📝 License
+## License
 
 This project is open source. Please check the repository for license details.
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions, please:
 - Open an issue on GitHub
 - Check existing issues for solutions
 - Review the demo video for guidance
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Nigerian music community for inspiration
 - Spotify for their comprehensive music API
