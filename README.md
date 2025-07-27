@@ -108,8 +108,8 @@ Contributions are welcome! If you'd like to contribute, please:
 
 ### Ways to contribute:
 -  Reporting issues
-- � Fixing bugs
-- � Enhancing NLP capabilities
+- * Fixing bugs
+- * Enhancing NLP capabilities
 -   Adding more Afrobeat music recommendations
 -   Improving documentation
 
