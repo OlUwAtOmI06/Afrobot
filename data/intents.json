@@ -71,5 +71,9 @@
    {"tag": "Mental_health",
    "patterns": ["How do I handle stress?","My head dey bang.", "I think say i no go succced. i dey fear ", "what if i fail. i am anxious","what if i do not fiind success", "I am getting panick attack. what if it does not work","I am really worked up.", "I am terrified ","it might now work in my favour.","it fiit go left or south.","stress wan take me away.","i no dey alright. i been dey fear"],
    "responses": ["You are loved. do not stress, i am listening", "Everything will be alright. calm down am listening", "last last everywhere go rice and stew, you dey try, you fit run am by me", "Nothing dey shake. i dey for you, you wan share am", "It is okay. You are loved, am listening", "You are not alone. talk to someone if not talk to me i will listen"]
+   },
+   {"tag": "Exercise",
+   "patterns": ["I need to dey go gym", "I need to be exercising", "I suppose dey gym", "I supose dey keep fit", "II dey easily tire"],
+   "responses": ["True talk, you gats gym", "True tue you need exercise", "Make i no lie give you suppose dey go gym", "Take like 30 minutes , use take stretch leg", "You fit jog or jump rope, him go help you", "stretch and shake body small", "your body needs movement" ]
    }
    ]}
